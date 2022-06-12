@@ -1,6 +1,6 @@
 # SZ-MGB PCB
 
-This is a replacement Game Boy Pocket (MGB) PCB with some additional features.  Using reverse-engineered MGB schematics made available by gekkio and PCB scans, I created a replacement MGB PCB in KiCad. 
+This is a replacement Game Boy Pocket (MGB) PCB with some additional features.  Using gekkio's reverse-engineered MGB schematics, I created a replacement MGB PCB in KiCad. 
 
 ![](images/kicad_front.png)
 

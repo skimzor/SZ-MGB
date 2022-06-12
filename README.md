@@ -1,4 +1,4 @@
-# SZ-MGB_PCB
+# SZ-MGB PCB
 
 This is a replacement Game Boy Pocket (MGB) PCB with some additional features.  Based on the schematics found in the CGB Service Manual, I re-created the PCB in KiCad. 
 

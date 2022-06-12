@@ -43,7 +43,7 @@ Since this PCB follows the OEM MGB schematics, you are able to directly transpla
 
 # Credit and Thanks
 
-- [gekkio](https://gekkio.fi/) for their reverse-engineered MGB schematics, various Game Boy [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs) and overall contributions to the Game Boy community.
+- [gekkio](https://gekkio.fi/) for their reverse-engineered MGB schematics, various Game Boy [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs), and overall contributions to the Game Boy community.
 - [HDR](https://martinrefseth.com/) for compiling schematics, list of components, and board scans and their overall contributions to the Game Boy community.
 - ArcadeTV for the [MGB board scans](https://www.dropbox.com/sh/33886pwfi08kvxg/AAABOeOZqH1v53pUM_-8uHrOa?dl=0).
 - [Zekfoo](https://github.com/Zekfoo) for the inspiration for this project through their creation of the AGZ/CGZ/gbaHD-AIO.

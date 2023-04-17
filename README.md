@@ -42,7 +42,9 @@ Since this PCB follows the OEM MGB schematics, you are able to directly transpla
 
 # DC/DC Board
 
-If you would like to create a matching DC/DC Board, I have 'reverse-engineered' an OEM MGB DC/DC Board PCB which can be found [here](https://github.com/skimzor/MGB-DC). Otherwise, you can use the one from your donor MGB or any other aftermarket boards. Note that you will not be able to use the OEM MGB screen if you use an aftermarket DC/DC board.
+If you would like to create a matching DC/DC Board, I have 'reverse-engineered' an OEM MGB DC/DC Board PCB which can be found [here](https://github.com/skimzor/MGB-DC). Otherwise, you can use the one from your donor MGB or any other aftermarket boards. 
+
+***Note***: you will not be able to use the OEM MGB screen if you use an aftermarket DC/DC board.
 
 # Credit and Thanks
 

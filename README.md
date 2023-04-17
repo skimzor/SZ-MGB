@@ -9,7 +9,7 @@ This is a replacement Game Boy Pocket (MGB) PCB with some additional features.  
 - 4-Layer Board with GND and PWR Planes
 - Customizable PCB Mask Color (through PCBWay)
 - Conveniently-placed solder pads for aftermarket IPS screen kit controls
-- Option for tactile buttons on the directional pad and A/B buttons
+- Option for tactile buttons on the directional pad, A/B buttons and ST/SEL buttons.
 
 # Disclaimer
 You will need to transfer components from a working Game Boy Pocket for this PCB to work.  Please do not attempt this project if you are inexperienced in soldering; populating this PCB will require desoldering and micro-soldering surface mount components.  You will also need to be able to read/understand the MGB schematics and be able to self-troubleshoot any issues.  I do not take responsibility or accept blame for any damage to your Game Boy or for any failed attempts. 

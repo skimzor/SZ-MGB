@@ -45,7 +45,6 @@ Since this PCB follows the OEM MGB schematics, you are able to directly transpla
 
 - Special thanks to [gekkio](https://gekkio.fi/) for the reverse-engineered MGB schematics, various Game Boy [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs), and overall contributions to the Game Boy community. He deserves the credit for making this PCB possible.
 - ArcadeTV for the [MGB board scans](https://www.dropbox.com/sh/33886pwfi08kvxg/AAABOeOZqH1v53pUM_-8uHrOa?dl=0).
-- Various members of the Game Boy Discord community who helped troubleshoot/brainstorm ideas.
 
 # License
 

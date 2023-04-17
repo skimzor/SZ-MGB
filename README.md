@@ -18,7 +18,7 @@ You will need to transfer components from a working Game Boy Pocket for this PCB
 
 **Note**: There are multiple revisions of the OEM MGB PCBs.  These revisions have slight differences in passive components and their placement, but they *should* be compatible with this PCB.  Please be able to read/understand the MGB schematics to determine Game Boy revision and component compability with this PCB.
 
-I have personally tested this PCB and successfully created a working Game Boy Pocket using components from an OEM revision **MGB-CPU-04** PCB. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will not be providing technical support for any issues you may have.***
+I have personally tested this PCB and successfully created a working Game Boy Pocket using components from an OEM revision **MGB-LCPU-02** PCB. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will not be providing technical support for any issues you may have.***
 
 # Ordering
 

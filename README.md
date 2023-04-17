@@ -20,20 +20,17 @@ You will need to transfer components from a working Game Boy Pocket for this PCB
 
 I have personally tested this PCB and successfully created a working Game Boy Pocket using components from an OEM revision **MGB-LCPU-02** PCB. All features have been confirmed as working with the unit that I have created. ***However, I cannot guarantee a fully working unit if you undertake this project as there are too many factors that can cause issues, so please acknowledge this disclaimer and order/use this PCB at your own risk. Unless it is a PCB design issue, I will not be providing technical support for any issues you may have.***
 
+If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
+
 # Ordering
 
-This PCB will only be made available through PCBWay; gerbers/source files will not be released.  
+The SZ-MGB PCB will be available through Ko-fi:
 
-You can order the board by clicking this PCBWay link ***(disclosure: I do receive a commission for each order placed)***.
+- Ko-fi *(coming soon)*
 
-If you want to support me and receive a $5 credit if you are a new PCBWay user, please consider using my [PCBWay Referral Link](https://www.pcbway.com/setinvite.aspx?inviteid=542484). 
+You can also order the boards through PCBWay as a shared project (in any color you want):
 
-Order with the following options:
-- 1.2mm Thickness
-- ENIG Surface Finish (HASL will oxidize over time and button conductivity will decrease)
-- Any color solder mask
-
-If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
+- PCBWay *(coming soon)*
 
 # Bill of Materials & Assembly
 

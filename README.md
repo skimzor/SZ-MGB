@@ -40,6 +40,10 @@ Since this PCB follows the OEM MGB schematics, you are able to directly transpla
 
 **Note:** Component placement on this PCB should roughly be in the same area as the OEM MGB; however, please verify orientation/polarity of components before soldering.
 
+# DC/DC Board
+
+If you would like to create a matching DC/DC Board, I have 'reverse-engineered' an OEM MGB DC/DC Board PCB which can be found [here](https://github.com/skimzor/MGB-DC). Otherwise, you can use the one from your donor MGB or any other aftermarket boards. Note that you will not be able to use the OEM MGB screen if you use an aftermarket DC/DC board.
+
 # Credit and Thanks
 
 - Special thanks to [gekkio](https://gekkio.fi/) for the reverse-engineered MGB schematics, various Game Boy [KiCad footprints](https://github.com/Gekkio/gekkio-kicad-libs), and overall contributions to the Game Boy community. He deserves the credit for making this PCB possible.

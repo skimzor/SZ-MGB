@@ -2,7 +2,7 @@
 
 This is a replacement Game Boy Pocket (MGB) PCB with some additional features.  Using gekkio's reverse-engineered [MGB schematics](https://github.com/Gekkio/gb-schematics/tree/main/MGB-xCPU), I created a replacement MGB PCB in KiCad. 
 
-![](images/kicad_front.png)
+![](images/sz-mgb_soldered_back.JPEG)
 
 # Features
 

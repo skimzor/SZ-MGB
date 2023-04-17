@@ -26,7 +26,7 @@ If you have suggestions to improve or identify issues with the PCB design, pleas
 
 The SZ-MGB PCB will be available through Ko-fi:
 
-- Ko-fi *(coming soon)*
+- [Ko-fi](https://ko-fi.com/skimzor)
 
 You can also order the boards through PCBWay as a shared project (in any color you want):
 
